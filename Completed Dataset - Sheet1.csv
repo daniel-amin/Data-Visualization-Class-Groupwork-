@@ -1,4 +1,4 @@
-Date,Avinash Steps,Juhan Steps,Daniel Steps,Viet Steps,Avg Steps,Avinash Distance,Juhan Distance,Daniel Distance,Viet Distance,Avg Distance,Avg Temperature,Humidty (# of hours > 90%),Avg Wind Speed,Precipitation,Air Quality Index Value
+Date,Avinash Steps,Juhan Steps,Daniel Steps,Viet Steps,Avg Steps,Avinash Distance,Juhan Distance,Daniel Distance,Viet Distance,Avg Distance,Avg Temperature,Humidity,Avg Wind Speed,Precipitation,Air Quality Index Value
 2018-11-01,294,762,2085,6150,2999,0.13,0.3,0.81,2.7,0.99,63.5,0,7.6,0,67
 2018-11-02,3776,1368,2085,4183,2545,1.67,0.61,0.81,1.8,1.22,68,6,11.5,0.22,44
 2018-11-03,8796,4971,1850,0,2274,3.90,2.21,0.72,0,1.71,56.5,10,15.7,0.37,39
